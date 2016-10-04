@@ -11,4 +11,6 @@
       title: JSX In Depth
     - id: react-without-jsx
       title: React Without JSX
+    - id: higher-order-components
+      title: Higher-Order Components
 - title: Reference
